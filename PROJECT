@@ -1,0 +1,6 @@
+domain: takumakume.github.io
+layout:
+- go.kubebuilder.io/v3
+projectName: argocd-ns-remove-webhook
+repo: github.com/takumakume/argocd-ns-remove-webhook
+version: "3"
